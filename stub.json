@@ -1,0 +1,1 @@
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"fix the error in the solidity code which is caused by a wrong file path for console.sol in the import statement","md5":"441f03035e14aff10300349f88dd3e1b"}]}
